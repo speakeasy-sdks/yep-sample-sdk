@@ -4,15 +4,15 @@ management:
   docChecksum: 8db86c8597b22945c2b3f77241037075
   docVersion: 1.0.0
   speakeasyVersion: internal
-  generationVersion: 2.253.0
-  releaseVersion: 5.0.1
-  configChecksum: 87d555fdc53321525ec7592e069fa46f
+  generationVersion: 2.258.2
+  releaseVersion: 5.0.2
+  configChecksum: 59f944da4e60088e31be62a6d0c7cbc1
   repoURL: https://github.com/speakeasy-sdks/yep-sample-sdk.git
   repoSubDirectory: .
   installationURL: https://github.com/speakeasy-sdks/yep-sample-sdk.git
 features:
   python:
-    core: 4.4.5
+    core: 4.4.6
     errors: 2.81.8
     examples: 2.81.3
     flattening: 2.81.1
